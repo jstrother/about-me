@@ -1,0 +1,96 @@
+body {
+  /*typography declarations*/
+  font-size: 1em;
+  font-family: "Open Sans" "Helvetica Neue" sans-serif; }
+
+.masthead-intro {
+  text-align: center;
+  margin-bottom: 0.1em;
+  font-family: "Gentium Book Basic" "Georgia" serif;
+  font-size: 2em; }
+
+.masthead-heading {
+  text-align: center;
+  margin-top: -0.2em;
+  font-family: "Open Sans" "Helvetica Neue" sans-serif;
+  font-size: 6em;
+  font-weight: bold;
+  letter-spacing: -0.075em;
+  text-transform: uppercase;
+  color: #444444; }
+
+.masthead {
+  color: white;
+  padding: 4em 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-top: solid 1em #000000;
+  background-image: url("http://i114.photobucket.com/albums/n268/jimastrother/starry_road.jpg");
+  margin-bottom: 1em; }
+
+.section-header {
+  color: white;
+  padding: 3em 2em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-top: solid 1em #000000;
+  background-image: url("http://i114.photobucket.com/albums/n268/jimastrother/starry_road.jpg");
+  margin-bottom: 1em;
+  text-align: center; }
+
+.section-header > p,
+.footer > p {
+  /*typography declarations*/
+  font-weight: 300;
+  letter-spacing: 0.05em; }
+
+.title {
+  margin-bottom: -0.2em; }
+
+.body {
+  margin: 3em 10em;
+  max-width: 38em;
+  margin-left: auto;
+  margin-right: auto; }
+
+.question {
+  padding-top: 2em;
+  margin-bottom: -2em;
+  font-family: "Gentium Book Basic" "Georgia" serif;
+  font-size: 1.2em;
+  font-weight: bold; }
+
+.footer {
+  color: white;
+  padding: 3em 2em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-top: solid 1em #000000;
+  background-image: url("http://i114.photobucket.com/albums/n268/jimastrother/starry_road.jpg");
+  margin-bottom: 1em;
+  text-align: center; }
+
+.foot-title {
+  font-size: 1.25em;
+  font-weight: bold; }
+
+ul {
+  list-style-type: none; }
+
+li > a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  position: relative;
+  left: -1em; }
+
+li {
+  display: inline-block;
+  padding: 1.5em; }
+
+p > a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold; }
+
+/*# sourceMappingURL=styles.css.map */
